@@ -20,61 +20,42 @@ A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.
 
 ---
 
-Tailwind CSS  
-https://tailwindcss.com  
-https://tailwindcss.com/docs
+**HTMX**  
+https://htmx.org  
+https://htmx.org/examples  
   
-Tailwind PLAYGROUND  
-https://play.tailwindcss.com  
-
-VSCode Tailwind CSS IntelliSense  
-https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss  
-
-VSCode LIVE SERVER  
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer  
-
-Tailwind YOUTUBE KANAL  
-https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ  
-
-Adam Wathan - Tailwind CSS Best Practice Patterns  
-https://www.youtube.com/watch?v=J_7_mnFSLDg  
-
-The Net Ninja TAILWIND CSS tutorial  
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw  
-
-CSS SCROLL SNAPPING  
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap/Basic_concepts  
-https://css-tricks.com/practical-css-scroll-snapping/  
+**KNIHA A ESEJE:** prečo HTMX? kedy? kedy nie?  
+https://htmx.org/essays  
+https://hypermedia.systems  
+https://grugbrain.dev (humor)  
   
-SVG  
-https://tailwindcss.com/course/working-with-svg-icons#app  
-https://jakearchibald.github.io/svgomg  
-http://svgicons.sparkk.fr  
-https://freesvg.org  
-
-PLAYGROUNDY (co som navyrabal)  
-https://play.tailwindcss.com/BQ1ft9kHSu  
-https://play.tailwindcss.com/eGUrllgiE8  
-https://play.tailwindcss.com/pjmPULml8Y  
-
-UNSPLASH (free fotky)  
-https://unsplash.com  
-
-How to draw an Akita dog  
-https://www.youtube.com/watch?v=9qfmxWbklQM  
-
-Game Maker's Toolkit - Designing for Disability  
-https://www.youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR  
-
+**ALTERNATÍVY:** iní ľudia, rovnaký impulz  
+https://unpoly.com  
+https://hotwired.dev  
+https://laravel-livewire.com  
+https://hyperview.org (mobile)  
+  
+**CARSON GROSS:** rozhovory a prednášky tvorcu HTMX  
+https://www.youtube.com/watch?v=9H5VK9vJ-aw   
+https://www.youtube.com/watch?v=u2rjnLJ1M98  
+https://www.youtube.com/watch?v=cBfz4W_KvEI  
+https://www.youtube.com/watch?v=L_UWY-zHlOA  
+https://www.youtube.com/watch?v=mmzc3auHSEQ  
+https://www.youtube.com/watch?v=LRrrxQXWdhI  
+https://www.youtube.com/watch?v=Jodkvyo5DbA  
+  
 ---
 
-❤️ PATREON https://patreon.com/yablko  
-🎬 YOUTUBE 2 https://youtube.com/yablko  
+☕️ PATREON https://patreon.com/yablko  
+🎙 PODCAST https://youtu.be/DktmaHXd4ps  
 🍿 TWITCH https://twitch.com/yablko_  
+🎬 YOUTUBE 2 https://youtube.com/yablko  
 📸 INSTAGRAM https://instagram.com/yablko  
 👍 FACEBOOK https://www.facebook.com/yablko.smrdi  
 🐦 TWITTER https://twitter.com/yablko  
 📚 BLOGY https://medium.com/@yablko  
   
-📚 Všetky moje learn2code kurzy  
-:: https://www.learn2code.sk/instruktori/roman-hraska 1300+ videí
+📚 Všetky moje skillmea (learn2code) kurzy  
+:: https://skillmea.sk/lektor/roman-hraska 1500+ videí  
+
+♥️
