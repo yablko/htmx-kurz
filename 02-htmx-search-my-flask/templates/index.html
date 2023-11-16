@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+    <title>HTMX search my FLASK</title>
+	
+    <link rel="icon" href="./static/favicon.ico">
+	<link rel="stylesheet" href="./static/css/app.css">
+	<link rel="stylesheet" href="./static/css/form.css">
+	<link rel="stylesheet" href="./static/css/movies.css">
+	<link rel="stylesheet" href="./static/css/responsive.css">
+	
+    <script defer src="https://unpkg.com/htmx.org@1.9.6"></script>
+</head>
+
+<body>
+
+	<form action="/search" class="search-form">
+		<img class="icon" src="./static/img/search.svg" alt="search icon">
+
+		<div class="form-field">
+			<label class="search-field">
+				<input name="q" autocomplete="off" type="text" value="{{ s|default('find a movie', true) }}"
+					hx-get="/search"
+                    hx-target="#movies"
+                    hx-swap="innerHTML settle:150ms"
+					hx-trigger="keyup changed delay:350ms"
+                    hx-indicator=".loading"
+                >
+
+				<img class="loading icon" src="./static/img/throbber.png" alt="loading icon">
+			</label>
+
+			<input type="submit" disabled value="Search">
+		</div>
+	</form>
+
+	<main>
+		<section id="movies">
+			{% include 'search.html' %}
+		</section>
+	</main>
+
+</body>
+
+</html>

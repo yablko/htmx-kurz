@@ -1,0 +1,23 @@
+@media screen and (min-width: 1350px) {
+    html {
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 1050px) and (min-width: 667px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+@media screen and (max-width: 666px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+@container (width >=920px) {
+    .plot {
+        max-width: 75%;
+    }
+}

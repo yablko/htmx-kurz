@@ -1,0 +1,75 @@
+:root {
+    --color-bg: #f1f1f1;
+    --color-text: #000000;
+    --color-faded: #777777;
+    --space: 1.75rem;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+::selection {
+    background: #a8a8a8;
+    color: var(--color-bg);
+}
+
+body {
+    font-size: 1rem;
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+    margin: 0;
+    height: 100%;
+    min-height: 100dvh;
+
+    background: var(--color-bg);
+    background: linear-gradient(#ededed 25%, #fff 75%);
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+img,
+svg {
+    display: inline-block;
+
+    width: auto;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+    outline: none;
+}
+
+.icon {
+    width: 2.5rem;
+    user-select: none;
+}
+
+.loading {
+    width: 3.5rem;
+    margin-bottom: 2rem;
+
+    position: absolute;
+    transform: translate(-4rem, 1.9rem);
+
+    opacity: 0;
+    transition: opacity 100ms ease-in;
+}
+
+.htmx-request.loading {
+    opacity: 1;
+}
+
+form,
+main {
+    padding: calc(var(--space) * 2) calc(var(--space) * 3);
+}
